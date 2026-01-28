@@ -19,8 +19,7 @@ Screenshots
 <!-- Use raw GitHub URLs for images so they render on GitHub -->
 <p float="left">
   <img src="https://raw.githubusercontent.com/rayenouerghui/Wizards-of-War/main/menu%20game%20.png" alt="Menu screenshot" width="420" />
-  <img src="https://raw.githubusercontent.com/rayenouerghui/Wizards-of-War/main/gameplay%20photo.png" alt="Gameplay screenshot" />
-width="420" />
+  <img src="https://raw.githubusercontent.com/rayenouerghui/Wizards-of-War/main/gameplay%20photo.png" alt="Gameplay screenshot" width="420"/>
 </p>
 
 Quickstart (recommended for most users)
