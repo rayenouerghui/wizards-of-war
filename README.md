@@ -143,8 +143,3 @@ Acknowledgements
 - Sprite and asset handling inspired by classic 2D platformers.
 
 ---
-
-If you'd like, I can:
-- generate a ready-to-add LICENSE file,
-- produce a CONTRIBUTING.md template,
-- or create an Issues/PR checklist to include in the repo.
